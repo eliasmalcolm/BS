@@ -1,4 +1,4 @@
 # BS
 Dette er noget bullshit
 
-$/sqrt{4}$
+$\sqrt{4}$
